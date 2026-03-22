@@ -38,6 +38,7 @@ class FusionSolarCoordinator(DataUpdateCoordinator):
         """Initialize coordinator."""
 
         # Set variables from values entered in config flow setup
+        # These are the values from the config flow
         self.user = config_entry.data[CONF_USERNAME]
         self.pwd = config_entry.data[CONF_PASSWORD]
         self.login_host = config_entry.data[FUSION_SOLAR_HOST]
