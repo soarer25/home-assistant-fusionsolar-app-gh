@@ -1,4 +1,4 @@
-# Home Assistant FusionSolar App Integration
+# Home Assistant FusionSolar App Integration with tweak by Garrett
 
 [![hacs\_badge](https://img.shields.io/badge/HACS-Default-41BDF5.svg)](https://github.com/hacs/integration)
 [![GitHub release](https://img.shields.io/github/release/hcraveiro/Home-Assistant-FusionSolar-App.svg)](https://github.com/hcraveiro/Home-Assistant-FusionSolar-App/releases/)
