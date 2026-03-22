@@ -1,6 +1,6 @@
 """Constants for the Integration Fusion Solar App."""
 
-DOMAIN = "fusion_solar_app"
+DOMAIN = "fusion_solar_app_gh"
 
 DEFAULT_SCAN_INTERVAL = 60
 MIN_SCAN_INTERVAL = 10

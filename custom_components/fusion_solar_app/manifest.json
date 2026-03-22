@@ -1,17 +1,17 @@
 {
-  "domain": "fusion_solar_app",
-  "name": "Fusion Solar App Integration",
+  "domain": "fusion_solar_app_gh",
+  "name": "Fusion Solar App Integration GH",
   "codeowners": [
-    "@hcraveiro"
+    "@soarer25"
   ],
   "config_flow": true,
   "dependencies": [],
-  "documentation": "https://github.com/hcraveiro/Home-Assistant-FusionSolar-App",
+  "documentation": "https://github.com/soarer25/home-assistant-fusionsolar-app-gh",
   "homekit": {},
   "iot_class": "local_polling",
   "requirements": [],
   "single_config_entry": false,
   "ssdp": [],
-  "version": "1.2.4",
+  "version": "1.1",
   "zeroconf": []
 }
